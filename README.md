@@ -1,22 +1,14 @@
-<br clear="both">
-
 <h1 align="center">Hey, I'm H. Alperen ELBIZ</h1>
 
 ###
-
-<br clear="both">
 
 <p align="left">I’m currently working on game development.<br><br>I'm improving my skills in 3D modeling.</p>
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Connect with me:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alperenelbiz/" target="_blank">
@@ -35,13 +27,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">I code with</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
