@@ -1,10 +1,10 @@
-### <div align="center">I'm Alperen, Computer Engineering Student</div>  
+### <div align="center">H. Alperen ELBIZ</div>  
   
 
-- ⌨️  I’m currently learning Game Development  
+- I’m currently working on game development
   
 
-- 🎨 I'm improving my skills in 3D Modeling  
+- I'm improving my skills in 3D Modeling  
   
 
 <br/>  
@@ -49,18 +49,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alperenelbiz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alperenelbiz&&style=flat-square" align="center" />
-</div>  
-
+   
 <br />
